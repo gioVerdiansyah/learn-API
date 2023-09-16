@@ -1,0 +1,2 @@
+composer require cloudcreativity/laravel-json-api
+composer require --dev cloudcreativity/json-api-testing
